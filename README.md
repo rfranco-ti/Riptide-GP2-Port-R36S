@@ -1,6 +1,6 @@
 # Riptide GP2 — PortMaster port for R36S
 
-<p align="center"><a href="https://www.vectorunit.com/riptide-gp2"><img src="riptidegp2/cover.png" alt="Riptide GP2" width="480"/></a></p>
+<p align="center"><a href="https://www.vectorunit.com/riptide-gp2"><img src="riptidegp2/cover.png" alt="Riptide GP2" width="320"/></a></p>
 
 ## English
 
@@ -13,9 +13,7 @@ Tested on R36S with DarkOS EN.
 ### Install
 
 1. Copy `Riptide GP2.sh` and the `riptidegp2` folder into your `ports` folder.
-2. Drop the Riptide GP2 file you own into `ports/riptidegp2/gamedata/`. The
-   `.xapk` is the easiest. If you use the base `.apk`, keep
-   `config.arm64_v8a.apk` next to it. Any file name works.
+2. Drop the Riptide GP2 file you own into `ports/riptidegp2/gamedata/`. Any file name works.
 3. Open it once. It extracts and starts.
 
 You need an aarch64 firmware with glibc 2.27 or newer, GLES2, roughly 400MB
@@ -37,7 +35,7 @@ Tested with `2026.10.03`, versionCode 77.
 | Base APK SHA-256 | `fc3a91eadc0dd213ae60314a9b91cec94c38bb0ebadb1cad7ee8f754188c11b2` |
 | ABI split SHA-256 | `e3de83cef9b3f08b0746429424d4a7f8d934c0ee7815821803ba4c24480a7509` |
 
-Reference file `Riptide+GP2_2026.10.03_APKPure.xapk`. Other builds of the
+Reference file `Riptide+GP2_2026.10.03_.xapk`. Other builds of the
 same package are accepted as long as the engine and the assets pass
 validation.
 
@@ -46,7 +44,7 @@ refuses, because the engine lives in the ARM64 split.
 
 ### Controls
 
-Native gamepad, no cursor on screen.
+Native gamepad.
 
 | | |
 |---|---|
@@ -76,9 +74,7 @@ Testado em R36S com DarkOS EN.
 
 1. Copie `Riptide GP2.sh` e a pasta `riptidegp2` para a sua pasta `ports`.
 2. Coloque o arquivo de Riptide GP2 que você tem em
-   `ports/riptidegp2/gamedata/`. O `.xapk` é o mais fácil. Se usar o `.apk`
-   base, deixe o `config.arm64_v8a.apk` do lado. Qualquer nome de arquivo
-   funciona.
+   `ports/riptidegp2/gamedata/`. O `.xapk` é o mais fácil. Qualquer nome de arquivo funciona.
 3. Abra uma vez. Ele extrai e inicia.
 
 Você precisa de um firmware aarch64 com glibc 2.27 ou mais nova, GLES2,
@@ -100,7 +96,7 @@ Testado com `2026.10.03`, versionCode 77.
 | SHA-256 do APK base | `fc3a91eadc0dd213ae60314a9b91cec94c38bb0ebadb1cad7ee8f754188c11b2` |
 | SHA-256 do split ABI | `e3de83cef9b3f08b0746429424d4a7f8d934c0ee7815821803ba4c24480a7509` |
 
-Arquivo de referência `Riptide+GP2_2026.10.03_APKPure.xapk`. Outras versões
+Arquivo de referência `Riptide+GP2_2026.10.03_.xapk`. Outras versões
 do mesmo pacote são aceitas desde que a engine e os assets passem na
 validação.
 
