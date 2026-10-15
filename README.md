@@ -1,4 +1,4 @@
-# Riptide GP2 — PortMaster port for R36S
+# Riptide GP2 - Port for R36S
 
 <p align="center"><a href="https://www.vectorunit.com/riptide-gp2"><img src="riptidegp2/cover.png" alt="Riptide GP2" width="320"/></a></p>
 
@@ -35,7 +35,7 @@ Tested with `2026.10.03`, versionCode 77.
 | Base APK SHA-256 | `fc3a91eadc0dd213ae60314a9b91cec94c38bb0ebadb1cad7ee8f754188c11b2` |
 | ABI split SHA-256 | `e3de83cef9b3f08b0746429424d4a7f8d934c0ee7815821803ba4c24480a7509` |
 
-Reference file `Riptide+GP2_2026.10.03_.xapk`. Other builds of the
+Reference file `Riptide+GP2_2026.10.03.xapk`. Other builds of the
 same package are accepted as long as the engine and the assets pass
 validation.
 
@@ -96,7 +96,7 @@ Testado com `2026.10.03`, versionCode 77.
 | SHA-256 do APK base | `fc3a91eadc0dd213ae60314a9b91cec94c38bb0ebadb1cad7ee8f754188c11b2` |
 | SHA-256 do split ABI | `e3de83cef9b3f08b0746429424d4a7f8d934c0ee7815821803ba4c24480a7509` |
 
-Arquivo de referência `Riptide+GP2_2026.10.03_.xapk`. Outras versões
+Arquivo de referência `Riptide+GP2_2026.10.03.xapk`. Outras versões
 do mesmo pacote são aceitas desde que a engine e os assets passem na
 validação.
 
