@@ -1,0 +1,30 @@
+# Game data (BYO-data): never commit
+riptidegp2/gamedata/assets/
+riptidegp2/gamedata/lib/
+riptidegp2/gamedata/save/
+riptidegp2/gamedata/local/
+riptidegp2/gamedata/profile/
+riptidegp2/gamedata/profileback/
+riptidegp2/gamedata/*.save
+*.apk
+*.xapk
+*.apf
+
+# Runtime and generated files: never commit
+riptidegp2/.nxruntime/
+riptidegp2/.nxextract-*.json
+riptidegp2/nxextract.log
+riptidegp2/log.txt
+riptidegp2/log.prev.txt
+riptidegp2/log.prev2.txt
+riptidegp2/events.jsonl
+riptidegp2/events.prev.jsonl
+riptidegp2/nxphase-result.json
+riptidegp2/saves/
+
+# Owner files: seeded from defaults/ on first run
+riptidegp2/NEXTOSSETTINGS.txt
+riptidegp2/NEXTOSCONTROLLERS.gptk
+
+# Release archive
+riptidegp2.zip
